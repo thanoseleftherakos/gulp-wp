@@ -1,0 +1,25 @@
+{
+  "name": "gulpwp",
+  "version": "1.0.0",
+  "description": "wordpress + gulp",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-decompress": "^2.0.2",
+    "gulp-download": "0.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-prompt": "^1.0.1",
+    "gulp-replace": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "gulp"
+  ],
+  "author": "Thanos Eleftherakos",
+  "license": "ISC"
+}
